@@ -1,0 +1,19 @@
+{
+  "name": "vroom",
+  "version": "1.0.0",
+  "description": "slither.io clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moogtrails/vroomvroom.git"
+  },
+  "author": "Moog, Freakyleek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moogtrails/vroomvroom/issues"
+  },
+  "homepage": "https://github.com/Moogtrails/vroomvroom#readme"
+}
